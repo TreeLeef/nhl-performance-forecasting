@@ -1,2 +1,5 @@
 # remove the log files
 logs/
+
+# temp office files
+~$*
