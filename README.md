@@ -11,7 +11,7 @@ The models used are:
 - LSTM
 - LSTM + MLP hybrid
 
-The link to the presentation video is:
+The link to the presentation video is: https://youtu.be/bSgK6bG2Ags
 
 Credit to Benzik for his dataset on Kaggle - NHL Player Statistics:<br>
 https://www.kaggle.com/datasets/alexbenzik/nhl-players-statistics
